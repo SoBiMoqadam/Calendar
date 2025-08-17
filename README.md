@@ -20,7 +20,8 @@ A smart calendar to check dates, switch calendar types, and toggle themes effort
 
 ## 💻 Sample Code
 
-```python
+<div style="background:#1e1e2f; padding:15px; border-radius:10px; color:#fff; font-family:monospace; line-height:1.5;">
+<pre>
 import tkinter as tk
 from persiantools.jdatetime import JalaliDate
 from datetime import date, datetime
@@ -35,3 +36,9 @@ calendar_type = "jalali"  # or "gregorian"
 
 # Toggle themes
 theme = "light"  # or "dark"
+</pre>
+</div>
+
+<p style="margin-top:10px; color:#333; font-family:monospace;">
+You can continue writing explanations or notes here outside the code block.
+</p>
