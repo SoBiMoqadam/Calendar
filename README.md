@@ -22,21 +22,20 @@ A smart calendar to check dates, switch calendar types, and toggle themes effort
 
 <div style="background: #1e1e2f; padding: 15px; border-radius: 12px; font-family: monospace; color: #fff; line-height:1.6; box-shadow: 0 5px 15px rgba(0,0,0,0.3); margin: 20px 0;">
 <pre style="color:#f8f8f2;">
-<span style="color:#ff79c6;">from</span> calendar_module <span style="color:#8be9fd;">import</span> Calendar
+import tkinter as tk
+from persiantools.jdatetime import JalaliDate
+from datetime import date, datetime
+import calendar
 
-cal = Calendar(calendar_type=<span style="color:#50fa7b;">"Solar"</span>, theme=<span style="color:#50fa7b;">"Light"</span>)
+# Sample: Display today's date
+current_date = JalaliDate.today()
+print("Today's date:", current_date)
 
-<span style="color:#ffb86c;"># Show today's date</span>
-print(cal.today())
+# Switch between calendar types
+calendar_type = "jalali"  # or "gregorian"
 
-<span style="color:#ffb86c;"># Switch to Gregorian</span>
-cal.switch_calendar(<span style="color:#50fa7b;">"Gregorian"</span>)
-
-<span style="color:#ffb86c;"># Change theme</span>
-cal.change_theme(<span style="color:#50fa7b;">"Dark"</span>)
-
-<span style="color:#ff79c6;"># Display calendar</span>
-cal.show()
+# Toggle themes
+theme = "light"  # or "dark"
 </pre>
 </div>
 
