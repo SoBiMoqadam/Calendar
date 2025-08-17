@@ -15,19 +15,20 @@ A smart calendar to check dates, switch calendar types, and toggle themes effort
 - 🔄 **Switch Calendar Type**: Toggle between Solar (Persian) & Gregorian  
 - 🌗 **Themes**: Light and Dark background options  
 - 🎨 **Clean Interface** with smooth interactions  
+- 📝 **Easy to Extend**: Add events or modify themes easily
 
 ---
 
 ## 💻 Sample Code
 
-<div style="background:#1e1e2f; padding:15px; border-radius:10px; color:#fff; font-family:monospace; line-height:1.5;">
+<div style="background:#1e1e2f; padding:15px; border-radius:12px; color:#fff; font-family:monospace; line-height:1.6;">
 <pre>
 import tkinter as tk
 from persiantools.jdatetime import JalaliDate
 from datetime import date, datetime
 import calendar
 
-# Sample: Display today's date
+# Display today's date
 current_date = JalaliDate.today()
 print("Today's date:", current_date)
 
