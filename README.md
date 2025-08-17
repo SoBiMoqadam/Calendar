@@ -49,7 +49,7 @@ You can continue writing explanations or notes here outside the code block.
 
 You can download the `main.py` file directly:
 
-[![Download main.py](https://img.shields.io/badge/Download-main.py-pink?style=for-the-badge&logo=python)](https://raw.githubusercontent.com/SoBiMoqadam/Python-Calendar/main/main.py)
+[![Download main.py](https://img.shields.io/badge/Download-main.py-00FFFF?style=for-the-badge&logo=python&logoColor=white)](https://raw.githubusercontent.com/SoBiMoqadam/Python-Calendar/main/main.py)
 
 
 ---
