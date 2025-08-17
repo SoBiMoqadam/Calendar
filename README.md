@@ -42,3 +42,14 @@ theme = "light"  # or "dark"
 <p style="margin-top:10px; color:#333; font-family:monospace;">
 You can continue writing explanations or notes here outside the code block.
 </p>
+
+---
+
+## 🛠 Installation / Setup
+
+Clone this repository and run the script:
+
+```bash
+git clone https://github.com/SoBiMoqadam/Python-Calendar.git
+cd Python-Calendar
+python main.py
