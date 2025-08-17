@@ -1,7 +1,5 @@
-# Python Calendar
-
 <div align="center">
-<h1 style="color:#00ffff; font-family:monospace;">🗓 Python Calendar</h1>
+<h1 style="color:#00ffff; font-family:monospace;">Python Calendar</h1>
 <p style="font-family:monospace; font-size:16px; color:#9be7ff;">
 A smart calendar to check dates, switch calendar types, and toggle themes effortlessly 🚀
 </p>
