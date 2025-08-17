@@ -1,4 +1,4 @@
-# 📅 Python Calendar
+# Python Calendar
 
 <div align="center">
 <h1 style="color:#00ffff; font-family:monospace;">🗓 Python Calendar</h1>
@@ -9,7 +9,7 @@ A smart calendar to check dates, switch calendar types, and toggle themes effort
 
 ---
 
-## ✨ Features
+## Features
 
 - ✅ **Today's Date**: Quickly find the date of the day & month  
 - 🔄 **Switch Calendar Type**: Toggle between Solar (Persian) & Gregorian  
@@ -18,7 +18,7 @@ A smart calendar to check dates, switch calendar types, and toggle themes effort
 
 ---
 
-## 💻 Sample Code
+## Sample Code
 
 <div style="background:#1e1e2f; padding:15px; border-radius:10px; color:#fff; font-family:monospace; line-height:1.5;">
 <pre>
@@ -45,7 +45,7 @@ You can continue writing explanations or notes here outside the code block.
 
 ---
 
-## ⬇️ Download File
+## Download File
 
 You can download the `main.py` file directly:
 
@@ -55,7 +55,7 @@ You can download the `main.py` file directly:
 
 ---
 
-## 🛠 Installation / Setup
+## Installation / Setup
 
 Clone this repository and run the script using terminal:
 
