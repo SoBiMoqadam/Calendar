@@ -45,11 +45,20 @@ You can continue writing explanations or notes here outside the code block.
 
 ---
 
+## ⬇️ Download File
+
+You can download the `main.py` file directly:
+
+[![Download main.py](https://img.shields.io/badge/Download-main.py-pink?style=for-the-badge&logo=python)](https://raw.githubusercontent.com/SoBiMoqadam/Python-Calendar/main/main.py)
+
+
+---
+
 ## 🛠 Installation / Setup
 
-1. Make sure you have **Python** installed (3.7 or newer).  
-2. Clone this repository (optional) or just download the file below.  
-3. Run the script:
+Clone this repository and run the script using terminal:
 
 ```bash
+git clone https://github.com/SoBiMoqadam/Python-Calendar.git
+cd Python-Calendar
 python main.py
